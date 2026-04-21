@@ -1,55 +1,58 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB PROFILE README                              -->
-<!--   ⚡ All dynamic data is auto-fetched — just replace YOUR_USERNAME    -->
+<!--           GitHub Profile README — md amaan sahzada                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ──────────────────── ANIMATED HEADER BANNER ──────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20YOUR_NAME%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ──────────────────── ANIMATED HEADER ─────────────────────────────── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I'm%20Amaan%20%F0%9F%91%8B&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=MCA%20Student%20%7C%20Developer%20%7C%20he%2Fhim&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<!-- ──────────────────── TYPING SVG ───────────────────────────────────── -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+✨;Building+things+that+matter+🚀;Always+learning%2C+always+growing+🌱;Open+source+%7C+Clean+code+%7C+Good+vibes" alt="Typing SVG" />
+<!-- ──────────────────── TYPING ANIMATION ────────────────────────────── -->
+<a href="https://github.com/25scs2040002270-IILMGN">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Welcome+to+my+GitHub+%E2%9C%A8;MCA+Student+%40+IILM+University+%F0%9F%8E%93;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+to+collaborate+%26+contribute+%F0%9F%A4%9D" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- ──────────────────── PROFILE VIEWS + FOLLOWER BADGES ─────────────── -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=PROFILE+VIEWS" alt="Profile views"/>
+<!-- ──────────────────── BADGES ──────────────────────────────────────── -->
+<img src="https://komarev.com/ghpvc/?username=25scs2040002270-IILMGN&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=PROFILE+VIEWS" alt="Profile views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/25scs2040002270-IILMGN?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=TOTAL+STARS" alt="Stars"/>
+<img src="https://img.shields.io/badge/PRO-GitHub-7c3aed?style=for-the-badge&labelColor=1e1b4b" alt="GitHub Pro"/>
+&nbsp;
+<img src="https://img.shields.io/badge/he%2Fhim-pronouns-a78bfa?style=for-the-badge&labelColor=1e1b4b" alt="Pronouns"/>
 
 </div>
 
 ---
 
-<!-- ──────────────────── ABOUT ME SECTION ────────────────────────────── -->
+<!-- ──────────────────── ABOUT ME ─────────────────────────────────────── -->
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding gif"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding gif"/>
 
-### 🧠 About Me
+### 🧑‍💻 About Me
 
 ```yaml
-name:        YOUR NAME
-located_in:  YOUR CITY, YOUR COUNTRY
-current_job: YOUR JOB TITLE @ YOUR COMPANY
-education:   YOUR DEGREE, YOUR UNIVERSITY
+name:         Md Amaan Sahzada
+username:     25scs2040002270-IILMGN
+pronouns:     he / him
+education:    Masters in Computer Applications (MCA)
+university:   IILM University, Greater Noida
+email:        md.25scs2040002270@iilm.edu
 
-focus:
-  - Building scalable full-stack applications
-  - Contributing to open-source projects
-  - Exploring new technologies daily
+interests:
+  - Full Stack Development
+  - Problem Solving & DSA
+  - Open Source Contributions
+  - Building real-world projects
 
-hobbies:
-  - Coding 💻
-  - Music 🎵
-  - Coffee ☕
-  - Gaming 🎮
+currently:
+  - 📚 Pursuing MCA
+  - 🔨 Working on personal projects
+  - 🌱 Expanding my tech stack daily
 
-motto: "Code is poetry written in logic."
+motto: "Code. Learn. Repeat."
 ```
 
 <br clear="right"/>
@@ -64,18 +67,17 @@ motto: "Code is poetry written in logic."
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=25scs2040002270-IILMGN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=25scs2040002270-IILMGN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=25scs2040002270-IILMGN&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e" width="68%"/>
 
 <br/><br/>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=25scs2040002270-IILMGN&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -87,7 +89,7 @@ motto: "Code is poetry written in logic."
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=25scs2040002270-IILMGN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%"/>
 
 </div>
 
@@ -101,110 +103,84 @@ motto: "Code is poetry written in logic."
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Backend**
+**Backend & Databases**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**DevOps & Cloud**
+**Tools & Platforms**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ──────────────────── FEATURED PROJECTS ────────────────────────────── -->
+<!-- ──────────────────── WHAT I'M DOING ───────────────────────────────── -->
 
-### 🚀 Featured Projects
+### 🎯 Currently
 
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_USERNAME/YOUR_REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</a>
-
-</div>
+- 🎓 &nbsp;Pursuing **Masters in Computer Applications (MCA)** at IILM University
+- 💻 &nbsp;Building projects to strengthen my **full-stack skills**
+- 🌱 &nbsp;Currently learning **React, Node.js & System Design**
+- 🤝 &nbsp;Open to **collaborations, internships & open-source** contributions
+- 📬 &nbsp;Reach me at: **md.25scs2040002270@iilm.edu**
+- ⚡ &nbsp;Fun fact: I debug with `console.log` and I'm not ashamed 😄
 
 ---
 
-<!-- ──────────────────── CONNECT WITH ME ──────────────────────────────── -->
+<!-- ──────────────────── CONNECT ───────────────────────────────────────── -->
 
 ### 🤝 Connect With Me
 
 <div align="center">
 
-<!-- Replace ONLY the links that apply to you. Delete any that don't. -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_WEBSITE_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_DEVTO)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/25scs2040002270-IILMGN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.25scs2040002270@iilm.edu)
 
 </div>
 
----
-
-<!-- ──────────────────── CURRENT STATUS ───────────────────────────────── -->
-
-### 🎯 What I'm Up To
-
-- 🔭 &nbsp;Currently working on **YOUR_CURRENT_PROJECT**
-- 🌱 &nbsp;Currently learning **YOUR_LEARNING_TOPIC**
-- 👯 &nbsp;Looking to collaborate on **OPEN SOURCE / YOUR_INTEREST**
-- 💬 &nbsp;Ask me about **YOUR_EXPERTISE_TOPICS**
-- ⚡ &nbsp;Fun fact: **YOUR_FUN_FACT**
+> 💡 *I'll be adding more social links as I set them up — stay tuned!*
 
 ---
 
 <!-- ──────────────────── CONTRIBUTION SNAKE ───────────────────────────── -->
 
-### 🐍 Contribution Snake
+### 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/25scs2040002270-IILMGN/25scs2040002270-IILMGN/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/25scs2040002270-IILMGN/25scs2040002270-IILMGN/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/25scs2040002270-IILMGN/25scs2040002270-IILMGN/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
 
 <!--
-  To activate this, create `.github/workflows/snake.yml` in your profile repo:
-
+  To activate the snake animation, create this file in your profile repo:
+  Path: .github/workflows/snake.yml
+  ─────────────────────────────────────────────
   name: Generate Snake
   on:
     schedule: [{ cron: "0 0 * * *" }]
@@ -227,67 +203,26 @@ motto: "Code is poetry written in logic."
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 -->
 
+---
+
+<!-- ──────────────────── QUOTE ─────────────────────────────────────────── -->
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</picture>
+### 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
 
 </div>
 
 ---
 
-<!-- ──────────────────── SPOTIFY NOW PLAYING ──────────────────────────── -->
-
-### 🎵 Spotify — Now Playing
+<!-- ──────────────────── FOOTER ───────────────────────────────────────── -->
 
 <div align="center">
 
-<!--
-  To enable Spotify now-playing, deploy:
-  https://github.com/novatorem/novatorem
-  Then replace YOUR_SPOTIFY_APP below.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
 
-[![Spotify](https://novatorem-YOUR_SPOTIFY_APP.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-</div>
-
----
-
-<!-- ──────────────────── WAKATIME WEEKLY STATS ────────────────────────── -->
-
-### ⏱️ Weekly Dev Breakdown
-
-<!--
-  To enable WakaTime stats:
-  1. Sign up at wakatime.com and install the plugin in your editor
-  2. Add WAKATIME_API_KEY to your repo secrets
-  3. Set up: https://github.com/anmol098/waka-readme-stats
--->
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 30 mins  ████████████░░░░░░░░   48.2%
-TypeScript    6 hrs 15 mins  ██████░░░░░░░░░░░░░░   24.1%
-Python        3 hrs 45 mins  ████░░░░░░░░░░░░░░░░   14.5%
-CSS           2 hrs 00 mins  ██░░░░░░░░░░░░░░░░░░    7.7%
-Other         1 hr  25 mins  █░░░░░░░░░░░░░░░░░░░    5.5%
-```
-<!--END_SECTION:waka-->
-
----
-
-<!-- ──────────────────── FOOTER WAVE ──────────────────────────────────── -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-
-<br/>
-
-*⭐ If you find my work helpful, consider giving a star to my repos!*
+*✨ Thanks for visiting! — Md Amaan Sahzada · MCA @ IILM University*
 
 </div>
